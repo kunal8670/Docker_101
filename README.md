@@ -233,7 +233,4 @@ More phases and notes will be added as the learning journey continues.
 
 ```
 
-✅ Now the **Table of Contents links will work correctly** because they match GitHub’s automatic anchor format.
-
----
 
