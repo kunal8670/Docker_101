@@ -228,9 +228,11 @@ This Docker learning project currently covers concepts from **Phase 1 → Phase 
 More phases and notes will be added as the learning journey continues.
 
 ---
+##### © 2026 Kunal Harshad Patil  
+For more learning resources and updates, connect with me:  
+[GitHub](https://github.com/kunal8670) • [LinkedIn](https://www.linkedin.com/in/kunal-patil-8733b528a/)
 
-## ⭐ If you found this helpful, feel free to connect on LinkedIn or explore my GitHub for future learning resources.
+---
 
-```
 
 
