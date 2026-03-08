@@ -375,4 +375,10 @@ All containers run inside a **custom Docker network** to enable communication.
 
 ---
 
+##### © 2026 Kunal Harshad Patil  
+For more learning resources and updates, connect with me:  
+[GitHub](https://github.com/kunal8670) • [LinkedIn](https://www.linkedin.com/in/kunal-patil-8733b528a/)
+
+---
+
 
