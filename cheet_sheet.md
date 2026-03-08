@@ -100,7 +100,8 @@ This Docker cheat sheet covers commands learned from **Phase 1 → Phase 7**, in
 
 The goal of this document is to serve as a **quick reference while practicing Docker and containerized environments**.
 
----##### © 2026 Kunal Harshad Patil  
+---
+##### © 2026 Kunal Harshad Patil  
 For more learning resources and updates, connect with me:  
 [GitHub](https://github.com/kunal8670) • [LinkedIn](https://www.linkedin.com/in/kunal-patil-8733b528a/)
 
