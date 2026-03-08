@@ -355,4 +355,9 @@ The goal of this document is to serve as a **quick reference while practicing Do
 
 ---
 
-⭐ Feel free to connect on LinkedIn or explore my GitHub for future learning resources.
+##### © 2026 Kunal Harshad Patil  
+For more learning resources and updates, connect with me:  
+[GitHub](https://github.com/kunal8670) • [LinkedIn](https://www.linkedin.com/in/kunal-patil-8733b528a/)
+
+---
+
